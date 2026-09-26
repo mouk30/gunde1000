@@ -2,5 +2,7 @@
   "name": "건대호빠 W 더블유 | 1등 건대호스트바 공식 예약 & 주대 안내",
   "description": "건대호빠 1위 W(더블유) 공식 사이트. 건대입구역 3분, 매일 80~100명 에이스 출근, 투명 정찰제 주대 및 무료 픽업, 생일/단체 이벤트 혜택 제공.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
